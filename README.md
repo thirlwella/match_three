@@ -5,3 +5,5 @@ Retro 8 bit style graphics and screen is only 640 by 480. As three blocks drop y
 colour they disappear. If the screen fills up you lose. Each level gets faster and faster..
 
 Written in Python using Pygame.
+
+![alt text](https://img.itch.zone/aW1hZ2UvMTY5MDk4OS85OTYxMjAxLnBuZw==/original/sawezT.png)
